@@ -15,5 +15,10 @@ text-align: left;
 font-size: 40;
 }
 
-
+#imagem {
+  text-align: center;
+  border: 5px;
+  boder-style: solid;
+  boder-color:green;
+  boder-top-left-radius:500px;
 
