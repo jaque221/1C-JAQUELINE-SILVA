@@ -22,3 +22,26 @@ font-size: 40;
   boder-color:green;
   boder-top-left-radius:500px;
 
+  color:blue;
+  text-align: center;
+}
+
+.rodape{
+  boder-top-style: solid;
+  background: greeenyellow;
+  margin-bottom:-8px;
+  margin-left: -8px;
+  margin-right: -8px
+    padding:1px;
+}
+#rodape{
+  color: blue;
+  text-align:center;
+}
+
+.lista {
+  font-size:30;
+  color:red;
+}
+.imagens{
+  
