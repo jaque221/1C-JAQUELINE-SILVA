@@ -14,6 +14,8 @@ color: green;
 text-align: left;
 font-size: 40;
 }
+#lateral{ 
+  float: right;
 
 #imagem {
   text-align: center;
